@@ -13,5 +13,6 @@ gem 'simple_form', '~> 3.0.2'
 gem 'haml', '~> 4.0.5'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'coffee-script-source', '1.8.0'
+gem 'devise', '~> 3.5', '>= 3.5.2'
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
